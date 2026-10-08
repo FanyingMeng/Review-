@@ -1,0 +1,22 @@
+{
+  "name": "advjavascriptex1b",
+  "version": "1.0.0",
+  "description": "Exercise 1B",
+  "homepage": "https://github.com/FanyingMeng/AdvJavaScriptEx1B#readme",
+  "bugs": {
+    "url": "https://github.com/FanyingMeng/AdvJavaScriptEx1B/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanyingMeng/AdvJavaScriptEx1B.git"
+  },
+  "author": "Fanying Meng",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

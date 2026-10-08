@@ -1,0 +1,7 @@
+Fri Sep 18 2026 14:43:51 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'morefile'
+Fri Sep 18 2026 14:44:08 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'morefile'
+Fri Sep 18 2026 14:44:40 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'xxx'
+Fri Sep 18 2026 15:04:04 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'more files'
+Fri Sep 18 2026 15:04:50 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'more files'
+Fri Sep 18 2026 15:05:17 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'more files'
+Fri Sep 18 2026 15:07:09 GMT-0300 (Atlantic Daylight Time): ENOENT: no such file or directory, scandir 'more files'
